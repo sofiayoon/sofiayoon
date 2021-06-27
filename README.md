@@ -8,7 +8,7 @@
 
 I am a software engineer intern at [edX](https://www.linkedin.com/school/edx/about/) who loves to build software that makes positive impact! <br>
 
-As a rising senior majoring in Computer Science at Cornell University, I
+As a rising senior majoring in computer science at Cornell University, I
 
 🌱 Develop and lead software development projects for [Hack4Impact](https://www.cornellh4i.org/) <br>
 ✏ Teach Python and basics to programming in CS1110 Introduction to Computing Using Python <br>
