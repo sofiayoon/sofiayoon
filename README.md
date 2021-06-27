@@ -13,9 +13,9 @@ As a software engineer, I love to build software that makes positive impact!
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-
-<br><br>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sofiayoon&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<br>
+📈 My GitHub Stats <br>
+<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=sofiayoon&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /></p>
 
 
 <!--
