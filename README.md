@@ -11,7 +11,7 @@ I am a software engineer intern at edX who loves to build software that makes po
 As a rising senior majoring in Computer Science at Cornell University, I
 
 🌱 Develop and lead software development projects for [Hack4Impact](https://www.cornellh4i.org/) <br>
-✏ Teach Python and basics to programming as a consultant in CS1110 Introduction to Computing Using Python <br>
+✏ Teach Python and basics to programming in CS1110 Introduction to Computing Using Python <br>
 🎵 Worked as a full stack developer for [RapStudy](https://rapstudy.com/)
 
 I have experience with Django, React, Flask, and Firebase. 
