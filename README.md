@@ -21,7 +21,7 @@ Outside of programming, I am a travel and food enthusiast, and I have so far liv
 You can reach me at hy348@cornell.edu or [LinkedIn](https://www.linkedin.com/in/sofiayoon/)
 
 ⭐ **Fun Fact About Me** <br>
-I have two birthdays 
+I have two legal birthdays 
 
 🍷 **Fun Project By Me** <br>
 A [wine recommender app](https://perfectwinematch.herokuapp.com/) based on your personality and flavor preferences
