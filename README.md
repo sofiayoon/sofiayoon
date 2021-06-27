@@ -16,7 +16,7 @@ As a rising senior majoring in computer science at Cornell University, I
 
 I have experience with Django, React, Flask, and Firebase. 
 
-Outside of programming, I am a travel and food enthusiast, and I have so far lived in 6 countries around the world!
+Outside of programming, I am a travel and food enthusiast, and I have lived in 6 countries around the world!
 
 You can reach me at hy348@cornell.edu or [LinkedIn](https://www.linkedin.com/in/sofiayoon/)
 
