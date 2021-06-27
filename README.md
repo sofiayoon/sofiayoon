@@ -1,15 +1,26 @@
 <h1>Hi there, I'm <span style = "color:#89CFF0">Sofia Yoon</span> 👋</h1>
 
-### Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=sofiayoon.sofiayoon)
-<br>
-I am ... <br>
+<a href="https://www.linkedin.com/in/sofiayoon/">
+  <img align="left" alt="Sofia's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
-🌱 A rising senior majoring in Computer Science at Cornell Engineering <br>
-💻 Software engineer intern at edX. <br>
-🌎 Travel and food enthusiast <br>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=sofiayoon.sofiayoon) <br>
 
-As a software engineer, I love to build software that makes positive impact! 
+I am a software engineer intern at edX who loves to build software that makes positive impact! <br>
 
+As a rising senior majoring in Computer Science at Cornell University, I
+
+🌱 Develop and lead software development projects for [Hack4Impact](https://www.cornellh4i.org/) <br>
+✏ Teach Python and basics to programming as a consultant in CS1110 Introduction to Computing Using Python <br>
+🎵 Worked as a full stack developer for [RapStudy](https://rapstudy.com/)
+
+I have experience with Django, React, Flask, and Firebase. 
+
+Outside of programming, I am a travel and food enthusiast, and I have so far lived in 6 countries around the world!
+
+You can reach me at hy348@cornell.edu or [LinkedIn](https://www.linkedin.com/in/sofiayoon/)!
+
+📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
