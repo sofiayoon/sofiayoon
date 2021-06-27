@@ -1,6 +1,6 @@
 <h1>Hi there, I'm <span style = "color:#89CFF0">Sofia Yoon</span> 👋</h1>
 
-<a href="https://www.linkedin.com/in/sofiayoon/">
+<a href="https://www.linkedin.com/in/sofia-yoon/">
   <img align="left" alt="Sofia's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
