@@ -20,12 +20,17 @@ Outside of programming, I am a travel and food enthusiast, and I have so far liv
 
 You can reach me at hy348@cornell.edu or [LinkedIn](https://www.linkedin.com/in/sofiayoon/)!
 
+⭐ **Fun Fact About Me** <br>
+I have two birthdays 
+
+🍷 **Fun Project By Me** <br>
+A [wine recommender app](https://perfectwinematch.herokuapp.com/) based on your personality and flavor preferences
+
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<br>
-📈 My GitHub Stats <br>
+📈 **My GitHub Stats** <br>
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=sofiayoon&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /></p>
 
 
