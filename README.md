@@ -6,7 +6,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sofiayoon.sofiayoon) <br>
 
-I am a software engineer intern at edX who loves to build software that makes positive impact! <br>
+I am a software engineer intern at [edX](https://www.linkedin.com/school/edx/about/) who loves to build software that makes positive impact! <br>
 
 As a rising senior majoring in Computer Science at Cornell University, I
 
@@ -18,7 +18,7 @@ I have experience with Django, React, Flask, and Firebase.
 
 Outside of programming, I am a travel and food enthusiast, and I have so far lived in 6 countries around the world!
 
-You can reach me at hy348@cornell.edu or [LinkedIn](https://www.linkedin.com/in/sofiayoon/)!
+You can reach me at hy348@cornell.edu or [LinkedIn](https://www.linkedin.com/in/sofiayoon/)
 
 ⭐ **Fun Fact About Me** <br>
 I have two birthdays 
