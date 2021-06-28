@@ -6,7 +6,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sofiayoon.sofiayoon) <br>
 
-I am a software engineer intern at [edX](https://www.linkedin.com/school/edx/about/) who loves to build software that makes positive impact! <br>
+I am a software engineer intern at [edX](https://www.linkedin.com/school/edx/about/), and I love to build software that makes positive impact! <br>
 
 As a rising senior majoring in computer science at Cornell University, I
 
