@@ -8,6 +8,8 @@
 
 I am a software engineer intern at [edX](https://www.linkedin.com/school/edx/about/), and I love to build software that makes positive impact! <br>
 
+I first started programming at Cornell, and I was instantly fascinated by it. I saw programming as a virtual lego project with snippets of code as its building blocks. I hope to continue to learn more about software development, while using the technical skills I gain for a greater good. 
+
 As a rising senior majoring in computer science at Cornell University, I
 
 🌱 Develop and lead software development projects for [Hack4Impact](https://www.cornellh4i.org/) <br>
