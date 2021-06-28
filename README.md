@@ -12,7 +12,7 @@ As a rising senior majoring in computer science at Cornell University, I
 
 🌱 Develop and lead software development projects for [Hack4Impact](https://www.cornellh4i.org/) <br>
 ✏ Teach Python and basics to programming in CS1110 Introduction to Computing Using Python <br>
-🎵 Worked as a full stack developer for [RapStudy](https://rapstudy.com/)
+🎵 Worked as a full stack developer for [rapStudy](https://rapstudy.com/)
 
 I have experience with Django, React, Flask, and Firebase. 
 
