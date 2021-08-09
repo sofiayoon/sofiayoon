@@ -6,19 +6,22 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sofiayoon.sofiayoon) <br>
 
-I am a software engineer intern at [edX](https://www.linkedin.com/school/edx/about/), and I love to build software that makes positive impact! <br>
+I am a senior majoring in computer science at Cornell University College of Engineering, and I love to build software that makes positive impact! <br>
+
+Most of my personal projects are unfortunately in Cornell’s Github Enterprise system where you need Cornell authentication, but feel free to explore smaller projects in this github account!
 
 I first started programming at Cornell, and I was instantly fascinated by it. I saw programming as a virtual lego project with snippets of code as its building blocks. I hope to continue to learn more about software development, while using the technical skills I gain for a greater good. 
 
-As a rising senior majoring in computer science at Cornell University, I
+👩🏻‍💻 **About Me** <br>
 
-🌱 Develop and lead software development projects for [Hack4Impact](https://www.cornellh4i.org/) <br>
-✏ Teach Python and basics to programming in CS1110 Introduction to Computing Using Python <br>
-🎵 Worked as a full stack developer for [rapStudy](https://www.linkedin.com/company/rapstudy/)
+🏫 Former software engineer intern at [edX](https://www.linkedin.com/school/edx/about/) <br>
+🌱 Developer and Incoming Technical Lead for [Hack4Impact](https://www.cornellh4i.org/) <br>
+✏ Course Consultant (Teaching Assistant) for Python and basics to programming in CS1110 Introduction to Computing Using Python <br>
+🎵 Former full stack developer intern for [rapStudy](https://www.linkedin.com/company/rapstudy/)
 
 I have experience with Django, React, Flask, and Firebase. 
 
-Outside of programming, I am a travel and food enthusiast, and I have lived in 6 countries around the world!
+Outside of programming, I am a travel and food enthusiast, and I have lived in 5 countries around the world!
 
 You can reach me at hy348@cornell.edu or [LinkedIn](https://www.linkedin.com/in/sofiayoon/)
 
