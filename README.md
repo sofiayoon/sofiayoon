@@ -15,7 +15,7 @@ I first started programming at Cornell, and I was instantly fascinated by it. I 
 👩🏻‍💻 **About Me** <br>
 
 🏫 Former software engineer intern at [edX](https://www.linkedin.com/school/edx/about/) <br>
-🌱 Developer and Incoming Technical Lead for [Hack4Impact](https://www.cornellh4i.org/) <br>
+🌱 Technical Lead for [Hack4Impact](https://www.cornellh4i.org/) <br>
 ✏ Course Consultant for Python and basics to programming in CS1110 Introduction to Computing Using Python <br>
 🎵 Former full stack developer intern for [rapStudy](https://www.linkedin.com/company/rapstudy/)
 
