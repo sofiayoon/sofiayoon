@@ -6,7 +6,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sofiayoon.sofiayoon) <br>
 
-I am a senior majoring in computer science at Cornell University College of Engineering, and I love to build software that makes positive impact! <br>
+I am a computer science student at Cornell University College of Engineering, and I love to build software that makes positive impact! <br>
 
 Most of my personal projects are unfortunately in Cornell’s Github Enterprise system where you need Cornell authentication, but feel free to explore smaller projects in this github account!
 
