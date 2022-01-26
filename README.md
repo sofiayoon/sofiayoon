@@ -34,8 +34,7 @@ A [wine recommender app](https://perfectwinematch.herokuapp.com/) based on your 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Python   2 hrs 42 mins   ████████████████████████▓   98.57 % 
-HTML     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+Python   17 mins         ██████████████████████▓░░   90.15 % 
 ```
 <!--END_SECTION:waka-->
 
