@@ -10,8 +10,6 @@ I am a computer science student at Cornell University College of Engineering, an
 
 Most of my personal projects are unfortunately in Cornell’s Github Enterprise system where you need Cornell authentication, but feel free to explore smaller projects in this github account!
 
-I first started programming at Cornell, and I was instantly fascinated by it. I saw programming as a virtual lego project with snippets of code as its building blocks. I hope to continue to learn more about software development, while using the technical skills I gain for a greater good. 
-
 👩🏻‍💻 **About Me** <br>
 
 🏫 Former software engineer intern at [edX](https://www.linkedin.com/school/edx/about/) <br>
