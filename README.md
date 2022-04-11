@@ -33,7 +33,7 @@ A [wine recommender app](https://perfectwinematch.herokuapp.com/) based on your 
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Python   20 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
