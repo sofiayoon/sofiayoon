@@ -12,6 +12,7 @@ Most of my personal projects are unfortunately in Cornell’s Github Enterprise 
 
 👩🏻‍💻 **About Me** <br>
 
+☁️ Software engineer intern at Microsoft in Azure Messaging Team <br>
 🏫 Former software engineer intern at [edX](https://www.linkedin.com/school/edx/about/) <br>
 🌱 Technical Lead for [Hack4Impact](https://www.cornellh4i.org/) <br>
 ✏ Course Consultant for Python and basics to programming in CS1110 Introduction to Computing Using Python <br>
