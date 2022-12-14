@@ -34,7 +34,8 @@ A [wine recommender app](https://perfectwinematch.herokuapp.com/) based on your 
 <!--START_SECTION:waka-->
 
 ```text
-Python   7 mins          █████████████████████████   100.00 %
+Python   1 hr 56 mins    ████████████████████████▒   97.14 %
+Other    3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
 ```
 
 <!--END_SECTION:waka-->
